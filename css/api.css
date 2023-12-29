@@ -1,0 +1,27 @@
+nav{
+    position: fixed;
+}
+.navbar-brand span:first-child
+{
+   
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #0a7197;
+font-weight:bold ;
+}
+.navbar-brand span:nth-child(2)
+{ color: #05384b;
+   font-size: 30px;
+   font-weight:bold ;
+
+}
+.navbar-brand span:last-child{
+    color: #f39a9d;
+    font-size: 30px;
+}
+
+.nav-item {
+font-size: 16px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+margin-left: 10px;
+text-transform: uppercase;}

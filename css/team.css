@@ -1,0 +1,19 @@
+
+
+    .skill1{
+        overflow: auto;
+text-align: center;
+
+    }
+    .floating {
+        float: right;
+        width: 300px;
+        height: 300px;
+        border-radius: 500px;
+            }
+            .floating2 {
+                float: left;
+                width: 300px;
+                height: 300px;
+                border-radius: 500px;
+                    }
